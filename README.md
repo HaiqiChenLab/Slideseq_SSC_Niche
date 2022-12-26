@@ -20,9 +20,9 @@ For the processed normal human Slide-seq datasets, please go to https://www.drop
    
     Convert Slide-seq data to image data and segment individual seminiferous tubules.
    
-### SPG_Compartment_Analysis.ipynb
+### RCTD.R
 
-    Identify beads belonging to either the undifferentiated or differentiating SPG neighorbood.
+    Cell type assignment to the Slide-seq data.
 
 ### Differential Gene Expression Analysis for Undiff vs Diff SPG Neighborhood.R
 
