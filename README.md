@@ -1,1 +1,39 @@
 # Slideseq_SSC_Niche
+
+### This repository contains custom code for analyzing data reported in the following paper:
+     
+     Chen, H., et al. (2021). Dissecting mammalian spermatogenesis using spatial transcriptomics. Cell reports, 37, 109915.
+
+For the previously generated, processed wild type and diabetic mouse Slide-seq datasets, please go to https://www.dropbox.com/s/ygzpj0d0oh67br0/Testis_Slideseq_Data.zip?dl=0.
+
+For the newly generated, proccessed wild type mouse Slide-seq dataset, please go to 
+
+For the processed normal human Slide-seq datasets, please go to https://www.dropbox.com/s/q5djhy006dq1yhw/Human.7z?dl=0.   
+   
+    
+    1. MappedDGE is the digital gene expression matrix;
+    
+    2. Beadlocations is the bead location matrix;
+    
+
+### Seminiferous Tubule Assignment Workflow.ipynb 
+   
+    Convert Slide-seq data to image data and segment individual seminiferous tubules.
+   
+### SPG_Compartment_Analysis.ipynb
+
+    Identify beads belonging to either the undifferentiated or differentiating SPG neighorbood.
+
+### Differential Gene Expression Analysis for Undiff vs Diff SPG Neighborhood.R
+
+    Calculate differentially expressed genes in the undifferentiated vs differentiating SPG neighorbood using the output from SPG_Compartment_Analysis.ipynb as input.
+
+### Purity Score Calculation.ipynb
+
+    Calculate the ES purity score for wild type and diabetic seminiferous tubules. 
+    
+### Pairwise Spatial Contact Frequency Analysis.m 
+
+    Calculate the pairwise spatial contact frequency for wild type and diabetic seminiferous tubules. 
+
+
