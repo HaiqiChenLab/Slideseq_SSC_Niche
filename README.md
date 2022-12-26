@@ -22,13 +22,17 @@ For the processed normal human Slide-seq datasets, please go to https://www.drop
    
 ### RCTD.R
 
-    Cell type assignment to the Slide-seq data.
+    Calculate cell type weights for each Slide-seq bead.
+    
+### Post-RCTD Analyses.ipynb
+
+    Assign cell type based on the cell type weights calculated by RCTD; Plot data.  
 
 ### Differential Gene Expression Analysis for Undiff vs Diff SPG Neighborhood.R
 
     Calculate differentially expressed genes in the undifferentiated vs differentiating SPG neighorbood using the output from SPG_Compartment_Analysis.ipynb as input.
 
-### Purity Score Calculation.ipynb
+### Post-RCTD Analyses.ipynb
 
     Calculate the ES purity score for wild type and diabetic seminiferous tubules. 
     
