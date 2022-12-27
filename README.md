@@ -30,14 +30,14 @@ For the processed normal human Slide-seq datasets, please go to https://www.drop
 
 ### NICHES.R
 
-    Identify stage-depdent and cell type-specific LR pairs.
+    Identify stage-depdent and cell type-specific ligand-receptor (LR) pairs.
 
-### Post-RCTD Analyses.ipynb
+### Post-NICHES Analyses.ipynb
 
-    Calculate the ES purity score for wild type and diabetic seminiferous tubules. 
+    Calculate the Moran's I statsitics for each LR pair and plot the spatial expression of the LR pairs of interest. 
     
-### Pairwise Spatial Contact Frequency Analysis.m 
+### COMMOT.ipynb 
 
-    Calculate the pairwise spatial contact frequency for wild type and diabetic seminiferous tubules. 
+    Calculate the signaling activities and spatial directions. 
 
 
