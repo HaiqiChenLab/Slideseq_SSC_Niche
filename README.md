@@ -26,7 +26,7 @@ For the processed normal human Slide-seq datasets, please go to https://www.drop
     
 ### Post-RCTD Analyses.ipynb
 
-    Assign cell type based on the cell type weights calculated by RCTD; Plot data.  
+    Assign cell type based on the cell type weights calculated by RCTD, plot data, and calculate the neighborhood enrichment score for the SPG subtypes.
 
 ### Differential Gene Expression Analysis for Undiff vs Diff SPG Neighborhood.R
 
