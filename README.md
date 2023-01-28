@@ -6,7 +6,7 @@
 
 For the previously generated, processed wild type and diabetic mouse Slide-seq datasets, please go to https://www.dropbox.com/s/ygzpj0d0oh67br0/Testis_Slideseq_Data.zip?dl=0.
 
-For the newly generated, proccessed wild type mouse Slide-seq dataset, please go to https://cloud.biohpc.swmed.edu/index.php/s/bb6Jsj5JjM4pezW
+For the newly generated, proccessed wild type mouse Slide-seq dataset, please go to https://cloud.biohpc.swmed.edu/index.php/s/nCM8Px3zFmTpZrk.
 
 For the processed normal human Slide-seq datasets, please go to https://www.dropbox.com/s/q5djhy006dq1yhw/Human.7z?dl=0.   
    
