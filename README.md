@@ -2,7 +2,7 @@
 
 ### This repository contains custom code for analyzing data reported in the following paper:
      
-     Shreya, R., et al. (2023). Dissecting the Spermatogonial Stem Cell Niche Using Spatial Transcriptomics.
+     Rajachandran, S., et al. (2023). Dissecting the Spermatogonial Stem Cell Niche Using Spatial Transcriptomics. Cell Reports. 
 
 For the previously generated, processed wild type and diabetic mouse Slide-seq datasets, please go to https://www.dropbox.com/s/ygzpj0d0oh67br0/Testis_Slideseq_Data.zip?dl=0.
 
